@@ -1,5 +1,5 @@
 # Academic--portfolio
-This repository contains selected academic materials.
+This repository contains academic materials.
 ## Contents
 - **Presentations:** Seminar and conference presentation slides (PDF)
 - **Graphics:** Graphical abstracts and scientific illustrations
